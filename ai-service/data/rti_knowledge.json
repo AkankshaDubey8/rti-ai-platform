@@ -1,0 +1,461 @@
+{
+ "version": 1,
+ "note": "General educational content. Not legal advice. Confirm details with the public authority.",
+ "entries": [
+  {
+   "id": "what-is-rti",
+   "type": "faq",
+   "title": "What is the Right to Information Act?",
+   "text": "The Right to Information (RTI) Act, 2005 gives citizens of India the right to request information held by public authorities, and requires those authorities to respond within set time limits. It is meant to make government work more open and accountable.",
+   "keywords": [
+    "rti",
+    "act",
+    "2005",
+    "right to information",
+    "what is"
+   ]
+  },
+  {
+   "id": "who-can-file",
+   "type": "faq",
+   "title": "Who can file an RTI request?",
+   "text": "The Act gives the right to citizens of India. You do not need a lawyer. You file the request with the public authority that holds the information you want.",
+   "keywords": [
+    "who",
+    "eligible",
+    "citizen",
+    "file",
+    "lawyer",
+    "who can file",
+    "eligible to file",
+    "am i eligible"
+   ]
+  },
+  {
+   "id": "what-is-information",
+   "type": "faq",
+   "title": "What counts as information?",
+   "text": "Information means material that a public authority holds in any form, such as records, documents, emails, circulars, orders, reports, contracts, file notings and data held electronically. A public authority is generally not required to create new information, give opinions, or explain why a decision was taken unless a record of the reasons exists.",
+   "keywords": [
+    "information",
+    "records",
+    "documents",
+    "opinion",
+    "create",
+    "held"
+   ]
+  },
+  {
+   "id": "reason",
+   "type": "faq",
+   "title": "Do I have to give a reason for asking?",
+   "text": "No. You are not required to explain why you want the information. You only need to give enough contact details for the reply to reach you.",
+   "keywords": [
+    "reason",
+    "why",
+    "purpose",
+    "justify"
+   ]
+  },
+  {
+   "id": "pio",
+   "type": "faq",
+   "title": "What is a Public Information Officer (PIO)?",
+   "text": "Each public authority designates a Public Information Officer who receives RTI requests and is responsible for replying to them. On RTI Assist, an authorised officer plays this role: the AI only prepares suggestions and the officer reviews, edits, approves and issues the response.",
+   "keywords": [
+    "pio",
+    "public information officer",
+    "officer",
+    "who answers"
+   ]
+  },
+  {
+   "id": "time-limit",
+   "type": "faq",
+   "title": "How long does a response take?",
+   "text": "The Act generally requires a reply within 30 days of receiving the request. Where the information concerns the life or liberty of a person, the reply is due within 48 hours. Some cases, such as a request transferred to another authority, can have different timing. Rules, fees and forms differ between central and state governments and between public authorities, so confirm details with the authority concerned.",
+   "keywords": [
+    "time",
+    "days",
+    "deadline",
+    "how long",
+    "30",
+    "48 hours",
+    "delay",
+    "when"
+   ]
+  },
+  {
+   "id": "fees",
+   "type": "faq",
+   "title": "Is there a fee?",
+   "text": "A small application fee is usually charged, and the amount and the way to pay it differ between central and state governments. Applicants who are below the poverty line are exempt from the application fee when they provide proof. Extra charges may apply for copies of records. Rules, fees and forms differ between central and state governments and between public authorities, so confirm details with the authority concerned.",
+   "keywords": [
+    "fee",
+    "cost",
+    "charge",
+    "pay",
+    "payment",
+    "bpl",
+    "poverty"
+   ]
+  },
+  {
+   "id": "exemptions",
+   "type": "faq",
+   "title": "Can information be refused?",
+   "text": "Yes. Section 8 of the Act lists categories that a public authority may withhold, for example information that would harm national security, hinder an investigation, reveal trade secrets, or disclose personal information with no connection to public activity. A refusal should state the ground relied on. Information that cannot be withheld from Parliament or a State Legislature cannot be withheld from a citizen.",
+   "keywords": [
+    "refuse",
+    "reject",
+    "exempt",
+    "section 8",
+    "withhold",
+    "denied",
+    "not allowed",
+    "cannot",
+    "rejected",
+    "rejection",
+    "refused",
+    "denied",
+    "why was my request"
+   ]
+  },
+  {
+   "id": "third-party",
+   "type": "faq",
+   "title": "Can I ask for information about another person?",
+   "text": "Personal information about an individual that has no connection with a public activity or interest is commonly withheld. Questions about public spending, policies, orders and decisions are usually better framed as aggregate or document-based requests.",
+   "keywords": [
+    "third party",
+    "personal",
+    "another person",
+    "privacy",
+    "neighbour",
+    "individual"
+   ]
+  },
+  {
+   "id": "appeal",
+   "type": "faq",
+   "title": "What if I get no reply or I am not satisfied?",
+   "text": "You can file a first appeal with the First Appellate Authority of the same public authority, generally within 30 days of the decision or of the day the reply was due. If you are still not satisfied, a second appeal can be made to the Information Commission, generally within 90 days (Section 19). Rules, fees and forms differ between central and state governments and between public authorities, so confirm details with the authority concerned.",
+   "keywords": [
+    "appeal",
+    "first appeal",
+    "second appeal",
+    "commission",
+    "no reply",
+    "not satisfied",
+    "faa",
+    "section 19",
+    "rejected",
+    "rejection",
+    "refused",
+    "denied",
+    "unhappy",
+    "dissatisfied",
+    "what can i do",
+    "no response",
+    "not received"
+   ]
+  },
+  {
+   "id": "proactive",
+   "type": "faq",
+   "title": "What is proactive disclosure?",
+   "text": "Section 4 of the Act requires public authorities to publish certain information themselves, such as their structure, functions, budgets and rules. Check the authority's website first; the answer may already be published.",
+   "keywords": [
+    "proactive",
+    "section 4",
+    "publish",
+    "website",
+    "already available"
+   ]
+  },
+  {
+   "id": "official",
+   "type": "faq",
+   "title": "Is RTI Assist an official government portal?",
+   "text": "No. RTI Assist is an independent academic project. It is not affiliated with any government department, and its demo data is fictional. For official filing, use the channel your public authority or state government provides.",
+   "keywords": [
+    "official",
+    "government",
+    "affiliated",
+    "portal",
+    "real",
+    "genuine"
+   ]
+  },
+  {
+   "id": "ai-role",
+   "type": "faq",
+   "title": "What does the AI do on this platform?",
+   "text": "The AI suggests a category and department, finds similar past records, and prepares a draft reply for the officer. It can be wrong. It never approves, rejects or issues a response; an authorised officer must review and approve every response.",
+   "keywords": [
+    "ai",
+    "artificial intelligence",
+    "automatic",
+    "robot",
+    "decide",
+    "draft"
+   ]
+  },
+  {
+   "id": "privacy",
+   "type": "faq",
+   "title": "Are my documents public?",
+   "text": "No. Attachments are stored privately and can only be opened by you, the officer handling your request, and administrators. The public transparency page shows only anonymous totals and never names, request text or documents.",
+   "keywords": [
+    "privacy",
+    "private",
+    "public",
+    "documents",
+    "secure",
+    "data",
+    "anonymous"
+   ]
+  },
+  {
+   "id": "uploads",
+   "type": "faq",
+   "title": "Which files can I attach?",
+   "text": "You can attach up to 5 files of PDF, PNG, JPG or TXT, each up to 5 MB. Files are checked for type and size before upload.",
+   "keywords": [
+    "upload",
+    "attach",
+    "file",
+    "pdf",
+    "size",
+    "limit",
+    "png",
+    "jpg"
+   ]
+  },
+  {
+   "id": "statuses",
+   "type": "faq",
+   "title": "What do the status labels mean?",
+   "text": "Submitted: received. AI Analysis Completed: the system categorised it. Draft Generated: a draft reply was prepared for the officer. Assigned: an officer has been given the request. Under Review: the officer is checking it. Awaiting Approval: the draft is ready for approval. Response Issued: the officer issued the reply. Rejected: the officer declined with a stated reason. Closed: finished.",
+   "keywords": [
+    "status",
+    "assigned",
+    "under review",
+    "awaiting approval",
+    "issued",
+    "closed",
+    "track"
+   ]
+  },
+  {
+   "id": "good-request",
+   "type": "guide",
+   "title": "How to write a clear RTI request",
+   "text": "A clear request is easier and faster to answer.",
+   "keywords": [
+    "write",
+    "wording",
+    "clear",
+    "specific",
+    "request",
+    "improve",
+    "rewrite",
+    "how do i write",
+    "how to write",
+    "write a request",
+    "improve my request"
+   ],
+   "steps": [
+    "Name the public authority, office or institution the request is about.",
+    "Say exactly what records, documents or figures you want, for example orders, registers, reports, bills or counts.",
+    "Give a time period, such as a year, financial year or date range.",
+    "Number each item so each can be answered separately.",
+    "Ask for existing records instead of opinions or reasons.",
+    "Do not include other people's personal details or ID numbers.",
+    "Add reference numbers (file number, earlier application ID) if you have them."
+   ]
+  },
+  {
+   "id": "how-to-file",
+   "type": "guide",
+   "title": "How to file a request on RTI Assist",
+   "text": "These are the steps on this platform.",
+   "keywords": [
+    "file",
+    "submit",
+    "apply",
+    "steps",
+    "how",
+    "to",
+    "wizard",
+    "how do i file",
+    "how to file",
+    "file a request",
+    "submit a request",
+    "file a new request",
+    "apply here"
+   ],
+   "steps": [
+    "Create a citizen account and sign in.",
+    "Choose New request. Check your details and pick a department, or let the system suggest one.",
+    "Write the subject and the detailed request. Use the suggestions panel to fix missing information.",
+    "Attach supporting documents if needed.",
+    "Review the preview and confirm. Nothing is sent until you confirm.",
+    "Download your acknowledgement and track the request from My applications."
+   ]
+  },
+  {
+   "id": "how-to-appeal",
+   "type": "guide",
+   "title": "How to prepare an appeal",
+   "text": "If you are unhappy with the response or received none.",
+   "keywords": [
+    "appeal",
+    "prepare",
+    "first",
+    "appeal",
+    "second",
+    "appeal",
+    "steps"
+   ],
+   "steps": [
+    "Read the response and note which items were not answered.",
+    "Check the date the reply was due and the date you received it.",
+    "Find your department's First Appellate Authority details on its official website or in the reply letter.",
+    "Write a short appeal listing the item, why the reply is inadequate, and what you want.",
+    "Attach your acknowledgement and the response.",
+    "Keep within the time limits mentioned in the appeals answer, and confirm them with the authority."
+   ]
+  },
+  {
+   "id": "glossary-pio",
+   "type": "glossary",
+   "title": "PIO",
+   "text": "Public Information Officer. The officer designated to receive and answer RTI requests.",
+   "keywords": [
+    "pio",
+    "meaning",
+    "define",
+    "what is",
+    "explain"
+   ]
+  },
+  {
+   "id": "glossary-faa",
+   "type": "glossary",
+   "title": "First Appellate Authority",
+   "text": "A senior officer in the same public authority who hears the first appeal.",
+   "keywords": [
+    "first appellate authority",
+    "meaning",
+    "define",
+    "what is",
+    "explain"
+   ]
+  },
+  {
+   "id": "glossary-commission",
+   "type": "glossary",
+   "title": "Information Commission",
+   "text": "An independent body that hears second appeals and complaints.",
+   "keywords": [
+    "information commission",
+    "meaning",
+    "define",
+    "what is",
+    "explain"
+   ]
+  },
+  {
+   "id": "glossary-public-authority",
+   "type": "glossary",
+   "title": "Public authority",
+   "text": "A government body or an organisation substantially funded by government that is covered by the RTI Act.",
+   "keywords": [
+    "public authority",
+    "meaning",
+    "define",
+    "what is",
+    "explain"
+   ]
+  },
+  {
+   "id": "glossary-exemption",
+   "type": "glossary",
+   "title": "Exemption",
+   "text": "A category of information that the Act allows a public authority to withhold.",
+   "keywords": [
+    "exemption",
+    "meaning",
+    "define",
+    "what is",
+    "explain"
+   ]
+  },
+  {
+   "id": "glossary-third-party",
+   "type": "glossary",
+   "title": "Third party",
+   "text": "A person other than the applicant and the public authority, whose information may be involved.",
+   "keywords": [
+    "third party",
+    "meaning",
+    "define",
+    "what is",
+    "explain"
+   ]
+  },
+  {
+   "id": "glossary-proactive-disclosure",
+   "type": "glossary",
+   "title": "Proactive disclosure",
+   "text": "Information a public authority must publish on its own without being asked.",
+   "keywords": [
+    "proactive disclosure",
+    "meaning",
+    "define",
+    "what is",
+    "explain"
+   ]
+  },
+  {
+   "id": "glossary-bpl",
+   "type": "glossary",
+   "title": "BPL",
+   "text": "Below Poverty Line. Applicants in this group are exempt from the application fee when they provide proof.",
+   "keywords": [
+    "bpl",
+    "meaning",
+    "define",
+    "what is",
+    "explain"
+   ]
+  },
+  {
+   "id": "glossary-acknowledgement",
+   "type": "glossary",
+   "title": "Acknowledgement",
+   "text": "A receipt confirming that your request was received, showing its ID and date.",
+   "keywords": [
+    "acknowledgement",
+    "meaning",
+    "define",
+    "what is",
+    "explain"
+   ]
+  },
+  {
+   "id": "glossary-file-noting",
+   "type": "glossary",
+   "title": "File noting",
+   "text": "Notes written by officials on a file while deciding a matter.",
+   "keywords": [
+    "file noting",
+    "meaning",
+    "define",
+    "what is",
+    "explain"
+   ]
+  }
+ ]
+}

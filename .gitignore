@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env
+.env.local
+data/demo-db.json
+data/demo-db.json.tmp
+uploads/*
+!uploads/.gitkeep
+ai-service/__pycache__/
+ai-service/tests/__pycache__/
+ai-service/.venv/
+*.pyc
+.DS_Store
+tests/e2e/routes.gen.js

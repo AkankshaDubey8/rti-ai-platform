@@ -1,0 +1,16 @@
+# Python 3.10 - 3.12 recommended. Versions are known-compatible ranges, not pinned to a tested lock file.
+fastapi>=0.110,<1.0
+uvicorn[standard]>=0.29,<1.0
+pydantic>=2.6,<3.0
+numpy>=1.26,<3.0
+sentence-transformers>=2.7,<4.0
+torch>=2.2,<3.0
+python-dotenv>=1.0,<2.0
+# Document intelligence (PDF text, OCR). OCR also needs the system programs tesseract-ocr and poppler-utils.
+pypdf>=4.0,<6.0
+pytesseract>=0.3.10,<0.4
+pdf2image>=1.17,<2.0
+Pillow>=10.1,<12.0
+# Optional local Hindi->English model (otherwise an LLM is used, otherwise translation is reported as unavailable):
+# transformers>=4.40,<5.0
+# sentencepiece>=0.2

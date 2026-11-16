@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {"name": "Education", "description": "Schools, colleges, universities, scholarships, teachers, examinations, admissions and mid-day meal programmes.",
+     "keywords": ["school", "college", "university", "scholarship", "teacher", "student", "exam", "admission", "curriculum", "mid-day meal", "tuition", "classroom", "syllabus", "hostel"],
+     "examples": ["Details of scholarship funds disbursed to students of government schools", "Teacher vacancies and recruitment in a government college"]},
+    {"name": "Healthcare", "description": "Hospitals, clinics, doctors, medicines, vaccination, ambulances and public health programmes.",
+     "keywords": ["hospital", "clinic", "doctor", "medicine", "vaccine", "vaccination", "ambulance", "nurse", "patient", "health", "dispensary", "surgery", "medical"],
+     "examples": ["Availability of essential medicines at the district hospital", "Number of ambulances deployed and their response times"]},
+    {"name": "Transportation", "description": "Public buses, road permits, driving licences, vehicle registration, traffic management and public transit.",
+     "keywords": ["bus", "transport", "traffic", "licence", "license", "vehicle", "registration", "metro", "route", "driver", "permit", "fare", "railway"],
+     "examples": ["Bus route changes and fare revisions in the city", "Driving licence applications pending beyond the prescribed time"]},
+    {"name": "Infrastructure", "description": "Roads, bridges, buildings, public works, construction contracts and tenders.",
+     "keywords": ["road", "bridge", "construction", "tender", "contractor", "building", "highway", "flyover", "repair", "public works", "pothole", "contract"],
+     "examples": ["Tender and contractor details for the bridge construction project", "Budget spent on repairing a state highway"]},
+    {"name": "Public administration", "description": "Government offices, recruitment, service rules, transfers, files, certificates and administrative procedures.",
+     "keywords": ["recruitment", "transfer", "service rules", "certificate", "office", "official", "file noting", "vacancy", "pension", "appointment", "salary", "administration", "grievance"],
+     "examples": ["Status of a grievance filed with a government office", "Number of vacant posts and the recruitment timeline"]},
+    {"name": "Electricity", "description": "Power supply, electricity bills, connections, meters, outages, transformers and power utilities.",
+     "keywords": ["electricity", "power", "electric", "meter", "transformer", "outage", "voltage", "billing", "tariff", "connection", "load shedding", "substation"],
+     "examples": ["Power outage hours recorded in a rural feeder last year", "Procedure and delay in sanctioning a new electricity connection"]},
+    {"name": "Water supply", "description": "Drinking water, pipelines, borewells, water quality, sewage connections and water boards.",
+     "keywords": ["water", "pipeline", "borewell", "tanker", "sewage", "drinking water", "tap", "reservoir", "supply", "water quality", "drainage", "hand pump"],
+     "examples": ["Water quality test reports for drinking water in the ward", "Pipeline repair work and tanker supply schedule"]},
+    {"name": "Agriculture", "description": "Farmers, crops, irrigation, subsidies, seeds, fertilisers, crop insurance and procurement.",
+     "keywords": ["farmer", "crop", "irrigation", "subsidy", "seed", "fertilizer", "fertiliser", "harvest", "agriculture", "procurement", "msp", "kisan", "insurance"],
+     "examples": ["Crop insurance claims settled for farmers in the district", "Fertiliser subsidy distribution records"]},
+    {"name": "Municipal services", "description": "Garbage collection, sanitation, street lights, property tax, parks, building permissions and local civic services.",
+     "keywords": ["garbage", "waste", "sanitation", "street light", "streetlight", "property tax", "park", "municipal", "ward", "sweeping", "stray", "encroachment", "trade licence"],
+     "examples": ["Garbage collection schedule and complaints in the ward", "Street lights installed and maintenance expenditure"]},
+    {"name": "Other", "description": "Requests that do not clearly belong to any other category.", "keywords": [], "examples": []}
+  ]
+}

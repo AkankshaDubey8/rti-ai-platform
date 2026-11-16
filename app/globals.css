@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy-50: 238 243 250; --navy-100: 220 230 243; --navy-200: 185 204 230; --navy-300: 142 170 210; --navy-400: 95 132 185; --navy-500: 62 100 156;
+  --navy-600: 43 77 128; --navy-700: 30 59 102; --navy-800: 20 43 78; --navy-900: 12 32 64; --navy-950: 7 20 40; --surface: 255 255 255; --mist: 242 245 249;
+  color-scheme: light;
+}
+.dark {
+  --navy-50: 17 29 52; --navy-100: 28 43 72; --navy-200: 48 68 105; --navy-300: 90 113 155; --navy-400: 124 148 188; --navy-500: 152 174 208;
+  --navy-600: 176 195 224; --navy-700: 200 214 236; --navy-800: 224 233 246; --navy-900: 240 245 252; --navy-950: 248 250 253; --surface: 15 26 48; --mist: 8 15 30;
+  color-scheme: dark;
+}
+html { font-size: 100%; }
+html.text-large { font-size: 112.5%; }
+html.text-xlarge { font-size: 125%; }
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; }
+  /* Grid items default to min-width:auto, so one long unbreakable string (a <select> option, an ID) would stretch the whole page on phones. */
+  .grid > *, .flex > .min-w-0-auto { min-width: 0; }
+  body { @apply bg-mist font-sans text-navy-900 antialiased; }
+  h1, h2, h3 { @apply font-sans tracking-tight; }
+  :focus-visible { @apply outline-none ring-2 ring-brand-500 ring-offset-2 ring-offset-mist; }
+  ::selection { @apply bg-brand-200 text-ink; }
+}
+@layer components {
+  .input { @apply w-full rounded-xl border border-navy-200 bg-surface px-3.5 py-2.5 text-sm text-navy-900 placeholder:text-navy-300 shadow-sm transition focus:border-brand-500 disabled:bg-navy-50 disabled:text-navy-400; }
+  .input-error { @apply border-rose-400 focus:border-rose-500; }
+  .draft-text { @apply w-full min-h-[22rem] rounded-xl border border-navy-200 bg-surface p-4 text-[15px] leading-7 text-navy-900 shadow-sm focus:border-brand-500; }
+  .skip-link { @apply absolute left-3 top-3 z-[100] -translate-y-24 rounded-lg bg-brand-700 px-4 py-2 text-sm font-semibold text-white transition focus:translate-y-0; }
+}
+/* Dark-mode adjustments for fixed-colour utilities that would otherwise be too dim on dark surfaces */
+.dark .text-brand-600, .dark .text-brand-700 { color: #8CB0FF; }
+.dark .text-brand-800, .dark .text-brand-900 { color: #BCD2FF; }
+.dark .bg-brand-50 { background-color: rgba(58, 107, 232, .12); }
+.dark .bg-brand-100 { background-color: rgba(58, 107, 232, .24); }
+.dark .border-brand-300 { border-color: rgba(140, 176, 255, .45); }
+.dark .bg-amber-50 { background-color: rgba(245, 158, 11, .14); } .dark .text-amber-900, .dark .text-amber-800 { color: #FCD34D; }
+.dark .bg-rose-50 { background-color: rgba(244, 63, 94, .14); } .dark .text-rose-700, .dark .text-rose-800 { color: #FDA4AF; }
+.dark .bg-sky-50 { background-color: rgba(14, 165, 233, .14); } .dark .text-sky-900 { color: #7DD3FC; }
+.dark .bg-violet-50 { background-color: rgba(139, 92, 246, .16); } .dark .text-violet-900 { color: #C4B5FD; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
+}
+@media print {
+  aside, header, .no-print { display: none !important; }
+  body { background: #fff; }
+}
